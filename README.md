@@ -17,7 +17,7 @@ I'm not resposible for anything that may go wrong with:
 
 ## Build
 
-    git clone https://gitlab.com/appsOSS/gplayapi.git
+    git clone https://gitlab.com/MrChota/gplayapi.git
     gradlew :assemble
     gradlew :build
 
